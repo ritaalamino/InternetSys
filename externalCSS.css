@@ -1,0 +1,78 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.button{
+    background-color: honeydew;
+    border: 1px hotpink;
+    border-radius: 10px;
+    color: indigo;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: royalblue;
+}
+.button:hover{
+    background-color: rosybrown;
+}
+textarea{
+    resize: none;
+    background-color: pink;
+    color: indianred;
+}
+input{
+    resize: none;
+    background-color: pink;
+    color: indianred;
+}
+body {
+    background-color: peachpuff;
+}
+table td, th{
+        border: 1px solid darkslategray;
+        border-collapse: collapse;
+        padding: 15px;
+        align-self: center;
+    }
+table th{
+    color: darkslategrey;
+}
+table td    {
+    text-align: left;
+    color: gray;
+}
+.table1{
+    background-color: skyblue;
+}
+.table2{
+    background-color: pink;
+}
+}
+a:link {
+    color: violet; background-color:transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: yellowgreen; background-color: transparent;
+    text-decoration: wavy;
+}
+a:active {
+    color: blueviolet; background-color: cadetblue;
+    text-decoration: chocolate;
+}
+a:visited {
+    color: crimson; background-blend-mode: darken;
+    text-decoration: darkkhaki;
+}
+h1 {
+    color: saddlebrown;
+}
+#h01 {
+    color: slategray;
+}
+p {
+    color: sienna;
+}
+p.pares{
+    color: darkcyan;
+}
